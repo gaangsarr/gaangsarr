@@ -71,12 +71,8 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gaangsarr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=gaangsarr&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF0080&fire=00FF88&currStreakLabel=00F5FF" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaangsarr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gaangsarr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaangsarr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
 </div>
 
 ---
