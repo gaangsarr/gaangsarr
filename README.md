@@ -106,14 +106,6 @@ const developer = {
 
 ---
 
-## On Repeat
-
-<div align="center">
-  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1Epw43anpcjGEY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
-
-</br>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gaangsarr&color=00F5FF&style=for-the-badge&label=Profile+Views" />
   
