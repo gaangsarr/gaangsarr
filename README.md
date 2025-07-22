@@ -1,4 +1,4 @@
-# Hey there, I'm Gangsar Anjasmoro! 👋
+# Hey there, I'm Gangsar Anjasmoro!
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const developer = {
@@ -22,11 +22,11 @@ const developer = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" />
@@ -34,7 +34,7 @@ const developer = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
 </p>
 
-### 🎨 Design & Tools
+### Design & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
@@ -42,7 +42,7 @@ const developer = {
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=000000" />
 </p>
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -56,7 +56,7 @@ const developer = {
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=000000" />
 </p>
 
-### 🔧 Development Tools
+### Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=000000" />
@@ -68,7 +68,7 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=gaangsarr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
@@ -77,7 +77,7 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gaangsarr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
@@ -85,7 +85,7 @@ const developer = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaangsarr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF0080&point=00FF88" />
@@ -105,6 +105,14 @@ const developer = {
 </div>
 
 ---
+
+## On Repeat
+
+<div align="center">
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1Epw43anpcjGEY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
+</br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gaangsarr&color=00F5FF&style=for-the-badge&label=Profile+Views" />
