@@ -71,8 +71,8 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gaangsarr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaangsarr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=gaangsarr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaangsarr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
 </div>
 
 ---
