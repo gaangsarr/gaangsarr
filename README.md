@@ -1,8 +1,6 @@
-<h1 align="center">
-   Hey, Mate! I'm Gangsar Anjasmoro.
-</h1>
-
-<h1 align="center">🕷️😵‍💫🦍</h1>
+<div align="center">
+  <img src="/hey-mate.gif" alt="Hey, Mate GIF" />
+</div>
 
 ---
 
